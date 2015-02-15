@@ -18,7 +18,6 @@ makeCacheMatrix <- function(x = matrix()) {
          setMatrixInverse = setMatrixInverse, getMatrixInverse = getMatrixInverse) 
 }
 
-
 ## Write a short comment describing this function
     # This function checks to see if there is already a matrix stored 
     # in the variable matrix then returns the cached version if it exists
